@@ -226,3 +226,17 @@ both of these words means "wear"
 
 >note that the use of 近 is subj + deg adv + 近 + obj
 
+
+## themes
+
+1. [Identity and culture](theme1.md)
+2. [Local area, holiday, travel](theme2.md)
+3. [School (partially finished)](theme3.md)
+4. Future aspirations, study and work (not made yet)
+5. International and global dimension (not made yet)
+
+## other materials
+
+- [vocab list](vocabs.md)
+
+
