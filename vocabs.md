@@ -304,5 +304,5 @@
 
 ## other materials
 
-- [vocab list](vocabs.md)
+- vocab list (this page)
 
