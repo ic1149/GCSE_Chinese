@@ -231,7 +231,7 @@ both of these words means "wear"
 
 1. Identity and culture (this page)
 2. [Local area, holiday, travel](theme2.md)
-3. [School (partially finished)](theme3.md)
+3. [School](theme3.md)
 4. Future aspirations, study and work (not made yet)
 5. International and global dimension (not made yet)
 
