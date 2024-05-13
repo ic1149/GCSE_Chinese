@@ -23,13 +23,33 @@
 - this is kind of like perfect tense
 - structure: verb + 
 
+
 ### use of 太......了 to express ‘too’ or ‘really’
+- structure: obj + 太 + adj + 了
+>e.g. 這個太大了 this is too big
 
-### word order ### frequency
+### word order - frequency
+- structure: frequency descriptor + action
 
-### word order ### duration of time
+#### frequency descriptors
+|chinese|english meaning|
+|---|---|
+|很少|seldom|
+|有時|sometimes|
+|常常/經常|often|
+|每天|everyday|
+
+>e.g. 我每天做運動
 
 ### asking ‘How long?’ with time
+- structure: action statement + 多久
+>e.g. 你練習鋼琴了多久 how long have you been practising piano
+
+### word order - duration of time
+- structure: action statement + duration (+ 了)
+>e.g. 我練習鋼琴兩年了 I have practised piano for two years
+
+
 
 
 
@@ -37,7 +57,7 @@
 
 1. [Identity and culture](theme1.md)
 2. [Local area, holiday, travel](theme2.md)
-3. School (this page, partially finished)
+3. School (this page)
 4. Future aspirations, study and work (not made yet)
 5. International and global dimension (not made yet)
 
