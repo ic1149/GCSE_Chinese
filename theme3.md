@@ -51,16 +51,15 @@
 
 
 
-
-
 ## themes
 
 1. [Identity and culture](theme1.md)
 2. [Local area, holiday, travel](theme2.md)
-3. School (this page)
-4. Future aspirations, study and work (not made yet)
-5. International and global dimension (not made yet)
+3. [School](theme3.md)
+4. [Future aspirations, study and work](theme4.md)
+5. [International and global dimension](theme5.md)
 
 ## other materials
 
 - [vocab list](vocabs.md)
+
