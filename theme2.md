@@ -131,7 +131,7 @@ meaning 2: I have already...
 
 1. [Identity and culture](theme1.md)
 2. Local area, holiday, travel (this page)
-3. [School (partially finished)](theme3.md)
+3. [School](theme3.md)
 4. Future aspirations, study and work (not made yet)
 5. International and global dimension (not made yet)
 
